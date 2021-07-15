@@ -1,0 +1,27 @@
+{
+  "name": "my-roster",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "dependencies": {
+    "inquirer": "^8.1.2",
+    "jest": "^27.0.6"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nicholasPerez290/my-roster.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nicholasPerez290/my-roster/issues"
+  },
+  "homepage": "https://github.com/nicholasPerez290/my-roster#readme"
+}
